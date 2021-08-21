@@ -301,7 +301,7 @@ li{
 
 body{
     background-image: linear-gradient(#6666ff,#8c66ff);
-    background-image: url(../Back.jpg);
+    background-image: url("Back.jpg");
     background-size: cover;
     background-attachment: fixed;
     justify-content: center;
